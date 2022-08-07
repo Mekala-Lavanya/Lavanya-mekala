@@ -1,5 +1,6 @@
 # Lavanya-mekala
 This is my FRT project
+I created this project using HTML,JAVASCRIPT, CSS.
 This Project is regarding a Dental Care Clinic which helps in solving all kinds of dental problems.
 The interface of the portal will be as shown
 
@@ -57,4 +58,4 @@ The footer consists of the same detaisl of the navigaion bar/header and the inte
 
 ![Screenshot 2022-08-07 232710](https://user-images.githubusercontent.com/109266330/183304585-c369046f-b89f-4730-a60c-eccf093df9dd.jpg)
 
-
+The link to my webpage is https://ambitious-dune-081672010.1.azurestaticapps.net
